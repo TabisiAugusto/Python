@@ -1,5 +1,9 @@
-### Hola!
+# Bienvenido a mi repositorio de análisis y machine earning 🚀
+¡Hola! Soy Augusto, y este repositorio es mi espacio para compartir análisis de datos, proyectos de machine learning y casos de prueba. Aquí encontrarás:
 
-En este repositorio voy a cargar los respectivos analisis que realice con diferentes datasets. Algunos archivos comprenderan solamente un analisis exploratorio de los datos utilizando diferentes librerias para mostrar metricas, graficos, asi como la obtencion de Insights.
-Por otro lado, tambien subire diferentes proyectos que contengan un poco mas de desarrollo para la creacion de modelos de machine learning.
-Por ultimo, subire tambien los casos de prueba para probrar librerias, o tecnicas particulares para la obtecion de datos. 
+### 1. Análisis exploratorio de datos (EDA)
+Archivos con análisis exploratorio utilizando diversas bibliotecas para métricas, gráficos y la obtención de insights.
+### 2. Proyectos de machine learning
+Implementaciones más avanzadas que incluyen desarrollo y creación de modelos de machine learning.
+### 3. Casos de prueba
+Ejemplos y pruebas para evaluar librerías, así como demostraciones de técnicas específicas para la obtención de datos.
