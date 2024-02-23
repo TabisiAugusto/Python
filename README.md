@@ -1,4 +1,4 @@
-# Bienvenido a mi repositorio de análisis y machine earning 🚀
+# Bienvenido a mi repositorio de análisis y machine learning 🚀
 ¡Hola! Soy Augusto, y este repositorio es mi espacio para compartir análisis de datos, proyectos de machine learning y casos de prueba. Aquí encontrarás:
 
 ### 1. Análisis exploratorio de datos (EDA)
